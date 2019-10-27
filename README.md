@@ -1,7 +1,6 @@
 This project is a front-end for Cryptocurrency Analysis Project build with React & Redux.<br />
 <br />
-You can find the Back-End project repository at [https://github.com/rmit-s3530196-avtar-singh/cryptocurrency-api]
-(https://github.com/rmit-s3530196-avtar-singh/cryptocurrency-api)<br />
+You can find the Back-End project repository at [https://github.com/rmit-s3530196-avtar-singh/cryptocurrency-api](https://github.com/rmit-s3530196-avtar-singh/cryptocurrency-api) <br />
 
 ## Available Scripts
 
