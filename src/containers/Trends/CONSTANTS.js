@@ -1,0 +1,6 @@
+import { CURRENCY_BASE_URL } from '../../CONSTANTS';
+
+export const FETCH_TRENDS = "FETCH_TRENDS";
+export const FETCH_TRENDS_FULFILLED = "FETCH_TRENDS_FULFILLED";
+export const FETCH_TRENDS_REJECTED = "FETCH_TRENDS_REJECTED";
+export const TRENDS_URL = CURRENCY_BASE_URL+"/currency/all";
