@@ -2,6 +2,19 @@ This project is a front-end for Cryptocurrency Analysis Project build with React
 <br />
 You can find the Back-End project repository at [https://github.com/rmit-s3530196-avtar-singh/cryptocurrency-api](https://github.com/rmit-s3530196-avtar-singh/cryptocurrency-api) <br />
 
+## Overview of Stack
+- Client
+  - React 16
+  - Redux 4
+  - Material UI & Bootstrap
+  - axios for REST API requests
+- Server
+  - Spring Boot
+  - Hibernate & JPA
+  - REST based API
+  - h2 for data storage
+  
+  
 ## Available Scripts
 
 In the project directory, you can run:
