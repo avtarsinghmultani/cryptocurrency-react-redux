@@ -24,7 +24,6 @@ const useStyles = makeStyles(theme => ({
 export function Analysis (props) {
     const classes = useStyles();
     useEffect (() => {
-        console.log("In analysis hooks");
         props.analsisAction();
     }, [props.analysis.join(",")]);
 
