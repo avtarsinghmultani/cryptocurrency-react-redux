@@ -13,6 +13,7 @@ You can find the Back-End project repository at [https://github.com/rmit-s353019
   - Hibernate & JPA
   - REST based API
   - h2 for data storage
+  - jUnit for testing
   
   
 ## Available Scripts
